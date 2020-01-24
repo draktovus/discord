@@ -3,5 +3,5 @@
 1. Item 1
 2. Item 2
 
-*Field A
-  *Field A.1
+*  Field A
+  *  Field A.1
