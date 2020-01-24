@@ -1,0 +1,22 @@
+MATH	 CSECT
+*********************************************************************
+*	AUTHOR:	     MANUEL REYES
+*	DESCRIPTION: 
+*	STATUS:	     
+*********************************************************************
+*
+R2	     EQU   2 			WORK REGISTER
+R12	     EQU   12			BASE REGISTER
+R14		 EQU   14			RETURN REGISTER
+		 BALR  R12,0
+		 USING METHOD,R12
+*
+METHOD	 L	   R2,X
+		 ST	   R2,W
+		 BCR   X'F',R14		RETURN
+*
+X		 DC    F'100'
+Y		 DC    F'2'
+Z		 DC    F'10'
+W		 DS	   F
+		 END   MATH
