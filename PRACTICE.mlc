@@ -1,21 +1,24 @@
 FIRST	 CSECT
 *********************************************************************
 *	AUTHOR:	     MANUEL REYES
-*	DESCRIPTION: 
+*	DESCRIPTION: COMPUTES W = X * Y
 *	STATUS:	     
 *********************************************************************
 *
-R2	     EQU   2 			WORK REGISTER
+R2	     EQU   2 			WORK REGISTER EVEN
+R3       EQU   3		    WORK REGISTER ODD
 R12	     EQU   12			BASE REGISTER
 R14      EQU   14			RETURN REGISTER
 *
          BALR  R12,0
          USING METHOD,R12
 *
-METHOD	 L	   R2,X
-		 ST	   R2,W
+METHOD	 L	   R3,X
+		 M     R2,Y
+		 ST	   R3,W
 		 BCR   X'F',R14		RETURN
 *
-X		 DC    F'100'
+X		 DC    F'4'
+Y		 DC    F'2'
 W		 DS	   F
 		 END   FIRST
