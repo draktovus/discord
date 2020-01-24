@@ -7,4 +7,4 @@
   *  Field A.1
 
 -  I am the chosen one!
-  -  YOU WERE MY BROTHER ANAKIN!
+  -YOU WERE MY BROTHER ANAKIN!
