@@ -3,33 +3,42 @@
 Notes about Reconstruction and the West, with material taken from Eric Foner's *Give Me Liberty!*
 Test
 
-## **Table of Contents**    
-- ### [The Meaning of Freedom](##TheMeaningofFreedom)
-- ### [Black Freedom](#BlackFreedom)
-- ### [Andrew Johnson](#AndrewJohnson)
+Table of Contents
 
-### The Meaning of Freedom
+- [RECONSTRUCTION AND THE WEST](#reconstruction-and-the-west)
+  - [The Meaning of Freedom](#the-meaning-of-freedom)
+  - [Black Freedom](#black-freedom)
+  - [Black Codes](#black-codes)
+  - [The Amendments](#the-amendments)
+  - [Congressional Reconstruction](#congressional-reconstruction)
+  - [Radical Reconstruction](#radical-reconstruction)
+  - [Presidential Reconstruction](#presidential-reconstruction)
+  - [Andrew Johnson](#andrew-johnson)
+
+## The Meaning of Freedom
 
 Black freedom was about freedmen being able to do all the things that their former masters were able to do. It was about escaping the bondages of slavery and all of its injustices, separation of family, punishments of lashing, etc.
 
-### Black Freedom
-Political freedom was very much an important piece achieving freedom. For a democratic nation, denying a race or group the right to vote would mean that they were inferior. 
+## Black Freedom
+
+Political freedom was very much an important piece achieving freedom. For a democratic nation, denying a race or group the right to vote would mean that they were inferior.
 
 Churches and schools gave rise to another important part of freedom for blacks. Freedmen believed that education was an important avenue to fully attaining freedom. Reading and writing is important in many fields such as politics. Illiteracy was heavily exploited, as sharecropping contracts were especially harsh.
 
-In 1865, Andrew Johnson ordered that nearly all land in federal hands must be given back to the former owners. Land reform was not achieved, and land was especially important to black freedmen. Land would give them economic independence and the power to not depend on anyone else but themselves, bearing the full fruit of their own labor. 
+In 1865, Andrew Johnson ordered that nearly all land in federal hands must be given back to the former owners. Land reform was not achieved, and land was especially important to black freedmen. Land would give them economic independence and the power to not depend on anyone else but themselves, bearing the full fruit of their own labor.
 
-### Black Codes
+## Black Codes
 
 Completely violated free labor principles.
 
-### The Amendments
+## The Amendments
 
     The 13th Amendment abolishes slavery. 
     The 14th Amendment gave birthright citizenship and equal protection under the law. 
     The 15th Amendment gave black male suffrage. 
 
-### Congressional Reconstruction
+## Congressional Reconstruction
+
     Memphis Race Riot - an image of violence in the South, garners sympathy for African Americans
     Moderate Republicans - want to go west, industrialize the west, get money, 
                            team up with Radicals (want rights for African Americans).
@@ -38,12 +47,13 @@ Completely violated free labor principles.
         Support black suffrage
         14th amendment
 
-### Radical Reconstruction
+## Radical Reconstruction
+
     1868: Election of Ulysses S. Grant.
     15th Amendment (1869) - Black suffrage for black males.
     Reconstruction Governments
 
-#### Presidential Reconstruction
+## Presidential Reconstruction
 
 Abraham Lincoln - Wanted National Reconciliation, government based on equality! Lincoln dies early, his plans are undermined by the next president. He supports the Freedmen Bureau.
 
@@ -51,7 +61,7 @@ Abraham Lincoln - Wanted National Reconciliation, government based on equality! 
     Wade-Davis Bill (Republicans)  - 50% of Southern Voters in 1860, make oath of loyalty.
     13th Amendment - Abolishes slavery
 
-### Andrew Johnson
+## Andrew Johnson
 
 Andrew Johnson pardoned many of the white southerners who took an oath of allegience to the Union, and gave individual pardons to many whom were exempted from that. He did not heavily punish the South for seceeding the Union.
 
@@ -90,7 +100,6 @@ Andrew Johnson - Unionist. Hated slavery due to it taking opportunities away fro
                 1. Sharecropping - it is a compromise
                 1. System of debt
                 1. Economic Slavery for the poor whites and blacks
-
 
 The End of Reconstruction: Redemption
 Rise of the Ku Klux Klan - ‘redeemed’ the South from corruption/bad government.
