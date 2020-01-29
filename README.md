@@ -29,7 +29,8 @@ In 1865, Andrew Johnson ordered that nearly all land in federal hands must be gi
 
 ## Black Codes
 
-Completely violated free labor principles.
+Restricted African American freedom and compelled them to work.
+Those who did not sign yearly labor contracts could be arrested and hired out.
 
 ## The Amendments
 
@@ -75,7 +76,7 @@ Andrew Johnson - Unionist. Hated slavery due to it taking opportunities away fro
 
 1. Experiencing Freedom
     1. Top-down Versus Bottom-up History
-        1. Top-Down: How the government people enact change. 
+        1. Top-Down: How the government people enact change.
             1. Lincoln’s Emancipation Proclamation freed slaves.
         1. Bottom-Up: How people change the laws.
             1. Frederick Douglass
