@@ -1,5 +1,8 @@
 # RECONSTRUCTION AND THE WEST
+
 Notes about Reconstruction and the West, with material taken from Eric Foner's *Give Me Liberty!*
+Test
+
 ### **Table of Contents**    
 - ### [The Meaning of Freedom](#TheMeaningofFreedom)
     * ### [Black Freedom](#BlackFreedom)
