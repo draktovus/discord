@@ -3,12 +3,12 @@
 Notes about Reconstruction and the West, with material taken from Eric Foner's *Give Me Liberty!*
 Test
 
-### **Table of Contents**    
-- ### [The Meaning of Freedom](#TheMeaningofFreedom)
-    * ### [Black Freedom](#BlackFreedom)
-    * ### [Andrew Johnson](#AndrewJohnson)
+## **Table of Contents**    
+- ### [The Meaning of Freedom](##TheMeaningofFreedom)
+- ### [Black Freedom](#BlackFreedom)
+- ### [Andrew Johnson](#AndrewJohnson)
 
-## The Meaning of Freedom
+### The Meaning of Freedom
 
 Black freedom was about freedmen being able to do all the things that their former masters were able to do. It was about escaping the bondages of slavery and all of its injustices, separation of family, punishments of lashing, etc.
 
